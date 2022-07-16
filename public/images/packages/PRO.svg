@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="96mm"
+   viewBox="0 0 400 96"
+   version="1.1"
+   id="svg263"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="PRO.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview265"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34772035"
+     inkscape:cx="1031.0009"
+     inkscape:cy="542.1023"
+     inkscape:window-width="1360"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2724" />
+  <defs
+     id="defs260">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1796"
+       x="-0.065682913"
+       y="-0.36019572"
+       width="1.1313658"
+       height="1.7203914">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5298632"
+         id="feGaussianBlur1798" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2724"
+       transform="matrix(2.5081849,0,0,2.5081849,5.4146653,-75.940789)">
+      <path
+         id="rect236"
+         style="opacity:0.99;fill:#31de00;stroke-width:0.264583"
+         d="M 11.067649,34.671955 H 140.04597 l -16.44074,9.887156 16.44074,13.632478 H 11.067649 L 25.757534,43.697924 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="rect236-3"
+         style="opacity:0.99;mix-blend-mode:normal;fill:#31de00;stroke-width:0.264583;filter:url(#filter1796)"
+         d="M 13.090985,37.654718 H 142.0693 l -16.44074,9.887156 16.44074,13.632478 H 13.090985 L 27.78087,46.680687 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:8.59479px;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55683"
+         x="64.422623"
+         y="51.224571"
+         id="text1854"
+         transform="scale(1.0576798,0.94546573)"><tspan
+           sodipodi:role="line"
+           id="tspan1852"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.59479px;font-family:C059;-inkscape-font-specification:'C059 Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.55683"
+           x="64.422623"
+           y="51.224571">PRO</tspan></text>
+    </g>
+  </g>
+</svg>

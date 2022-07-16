@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="96mm"
+   viewBox="0 0 400 96"
+   version="1.1"
+   id="svg263"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="FREE.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview265"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.34772035"
+     inkscape:cx="1019.4974"
+     inkscape:cy="542.1023"
+     inkscape:window-width="1360"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g700" />
+  <defs
+     id="defs260">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1796-6-1-0"
+       x="-0.065682908"
+       y="-0.36019563"
+       width="1.1313658"
+       height="1.7203913">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.5298632"
+         id="feGaussianBlur1798-7-2-6" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g700"
+       transform="matrix(2.0624723,0,0,2.0624723,14.581111,-457.77926)">
+      <path
+         id="rect236-35-0-6"
+         style="opacity:0.99;fill:#da03a3;fill-opacity:1;stroke-width:0.264583"
+         d="M 23.388778,230.48702 H 152.36711 l -16.44074,9.88716 16.44074,13.63247 H 23.388778 l 14.689885,-14.49366 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="rect236-3-6-9-1"
+         style="opacity:0.99;mix-blend-mode:normal;fill:#dc0272;fill-opacity:0.996078;stroke-width:0.264583;filter:url(#filter1796-6-1-0)"
+         d="M 25.412115,233.46978 H 154.39044 l -16.44074,9.88716 16.44074,13.63248 H 25.412115 l 14.689884,-14.49367 z"
+         sodipodi:nodetypes="ccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.0582px;opacity:0.99;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.75666"
+         x="67.175377"
+         y="260.0661"
+         id="text1854-2-3-8"
+         transform="scale(1.0576798,0.94546573)"><tspan
+           sodipodi:role="line"
+           id="tspan1852-9-6-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.0582px;font-family:C059;-inkscape-font-specification:'C059 Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.75666"
+           x="67.175377"
+           y="260.0661">Free</tspan></text>
+    </g>
+  </g>
+</svg>
